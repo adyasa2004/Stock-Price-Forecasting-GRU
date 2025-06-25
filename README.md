@@ -68,10 +68,6 @@ The forecasting model is built using a **GRU (Gated Recurrent Unit)**, a variant
 - **Reset Gate:** Controls how much past information to forget.
 - **Update Gate:** Decides how much new information to incorporate.
 
-<div align="center">
-  <img src="https://www.researchgate.net/profile/Yuanhang-Su/publication/323570767/figure/fig3/AS:674145788506118@1537740289540/The-diagram-of-a-GRU-cell.ppm" width="500" />
-</div>
-
 ---
 
 ## 📈 Results
