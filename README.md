@@ -47,7 +47,7 @@ The dataset contains historical daily stock price data for the selected companie
 
 > All four companies saw noticeable price dips during 2009, likely due to the global economic slowdown.
 
-![Microsoft Stock Prediction](assets/microstockprediction.png)
+![Microsoft Stock Prediction](assets/microsoft.png)
 
 ---
 
