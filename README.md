@@ -76,7 +76,8 @@ The forecasting model is built using a **GRU (Gated Recurrent Unit)**, a variant
 
 Below are sample output plots showing **actual vs predicted stock prices** for different companies:
 
-*(Insert your generated result images here, for example: IBM_forecast.png, Amazon_prediction.png, etc.)*
+![Microsoft Stock Prediction](assets/microstockprediction.png)
+![Microsoft Stock Prediction](assets/amazonstockprediction.png)
 
 ---
 
