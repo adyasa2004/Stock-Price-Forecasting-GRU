@@ -31,6 +31,8 @@ The dataset contains historical daily stock price data for the selected companie
 
 ## 📈 Data Analysis Highlights
 
+![Microsoft Stock Prediction](all.png)
+
 - **Microsoft:**  
   Displayed a slow, steady upward trend in the "High" price over the years.
 
