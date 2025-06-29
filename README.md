@@ -53,7 +53,7 @@ The dataset contains historical daily stock price data for the selected companie
 
 We applied time series forecasting techniques to model and predict future stock prices based on historical data patterns like **trend**, **seasonality**, and **cyclic variations**.
 
-![Microsoft Stock Prediction](assets/unknown.png)
+![Microsoft Stock Prediction](assets/Unknown.png)
 
 ---
 
